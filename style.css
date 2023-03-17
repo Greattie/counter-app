@@ -53,18 +53,19 @@ body {
   padding: 1em;
 }
 button {
-    cursor: pointer;
+  cursor: pointer;
   background: transparent;
   padding: 1em;
   font-size: 1.2rem;
   border-radius: 5px;
 }
-button:hover{
-    background-color: black;
-    color: white;
+button:hover {
+  background-color: black;
+  color: white;
 }
 
 /* FOOTER */
 footer {
+  text-align: center;
   min-height: 3em;
 }
