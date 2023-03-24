@@ -68,4 +68,8 @@ button:hover {
 footer {
   text-align: center;
   min-height: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
